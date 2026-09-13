@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>50094675743-375pcrs2vj6us1lvvgld3eo6mbk0ofl9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.50094675743-375pcrs2vj6us1lvvgld3eo6mbk0ofl9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDsqPyoJDFI0eeEmTmNkgRX6kw3paAZN4o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>50094675743</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>it.klodbersa.sperlongaturismo</string>
+	<key>PROJECT_ID</key>
+	<string>app-sperlonga</string>
+	<key>STORAGE_BUCKET</key>
+	<string>app-sperlonga.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:50094675743:ios:be433962a4b3eebbff022a</string>
+</dict>
+</plist>

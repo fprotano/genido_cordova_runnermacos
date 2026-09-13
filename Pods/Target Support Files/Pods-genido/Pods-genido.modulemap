@@ -1,0 +1,6 @@
+framework module Pods_genido {
+  umbrella header "Pods-genido-umbrella.h"
+
+  export *
+  module * { export * }
+}
